@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/from:adent</id>
+  <link type="text/html" rel="alternate" href="http://search.twitter.com/search?q=from%3Aadent"/>
+  <link type="application/atom+xml" rel="self" href="http://search.twitter.com/search.atom?q=from:adent"/>
+  <title>from:adent - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" rel="search" href="http://search.twitter.com/opensearch.xml"/>
+  <link type="application/atom+xml" rel="refresh" href="http://search.twitter.com/search.atom?q=from%3Aadent&amp;since_id=3265670738"/>
+  <twitter:warning>since_id removed for pagination.</twitter:warning>
+  <updated>2009-08-12T14:08:58Z</updated>
+  <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+  <link type="application/atom+xml" rel="next" href="http://search.twitter.com/search.atom?max_id=3265670738&amp;page=2&amp;q=from%3Aadent"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:3265670738</id>
+    <published>2009-08-12T14:08:58Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3265670738"/>
+    <title>Dovolil jsem si... virtu&#225;ln&#237; &#353;vesti&#269;ky... z virtu&#225;ln&#237; zahr&#225;dky... http://jdem.cz/bwhh7</title>
+    <content type="html">Dovolil jsem si... virtu&#225;ln&#237; &#353;vesti&#269;ky... z virtu&#225;ln&#237; zahr&#225;dky... &lt;a href="http://jdem.cz/bwhh7"&gt;http://jdem.cz/bwhh7&lt;/a&gt;</content>
+    <updated>2009-08-12T14:08:58Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twhirl.org/"&gt;twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>de</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3264827868</id>
+    <published>2009-08-12T13:10:13Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3264827868"/>
+    <title>...a kdy&#382; u&#382; jsme u toho Bennasiho, tak jeden mashup s Depeche Mode - Satisfaction vs Master and Servant: http://jdem.cz/bwg52</title>
+    <content type="html">...a kdy&#382; u&#382; jsme u toho Bennasiho, tak jeden mashup s Depeche Mode - Satisfaction vs Master and Servant: &lt;a href="http://jdem.cz/bwg52"&gt;http://jdem.cz/bwg52&lt;/a&gt;</content>
+    <updated>2009-08-12T13:10:13Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twhirl.org/"&gt;twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>nl</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3264370954</id>
+    <published>2009-08-12T12:33:07Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3264370954"/>
+    <title>Tak se n&#225;m zase radn&#237; rad&#237;, tentokr&#225;t o v&#253;b&#283;rov&#233;m &#345;&#237;zen&#237; na nov&#233;ho &#345;editele &#268;Ro: http://jdem.cz/bwgu4 #radacro</title>
+    <content type="html">Tak se n&#225;m zase radn&#237; rad&#237;, tentokr&#225;t o v&#253;b&#283;rov&#233;m &#345;&#237;zen&#237; na nov&#233;ho &#345;editele &#268;Ro: &lt;a href="http://jdem.cz/bwgu4"&gt;http://jdem.cz/bwgu4&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23radacro"&gt;#radacro&lt;/a&gt;</content>
+    <updated>2009-08-12T12:33:07Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twhirl.org/"&gt;twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>pt</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3264189591</id>
+    <published>2009-08-12T12:16:54Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3264189591"/>
+    <title>Dva klipy na st&#345;edu, aneb "Daddy's home!" - http://jdem.cz/bwgr4 a http://jdem.cz/bwgn8 Nen&#237; nad starou dobrou p&#237;sni&#269;ku vo l&#225;sce!</title>
+    <content type="html">Dva klipy na st&#345;edu, aneb &amp;quot;Daddy's home!&amp;quot; - &lt;a href="http://jdem.cz/bwgr4"&gt;http://jdem.cz/bwgr4&lt;/a&gt; a &lt;a href="http://jdem.cz/bwgn8"&gt;http://jdem.cz/bwgn8&lt;/a&gt; Nen&#237; nad starou dobrou p&#237;sni&#269;ku vo l&#225;sce!</content>
+    <updated>2009-08-12T12:16:54Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twhirl.org/"&gt;twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>nl</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3264012445</id>
+    <published>2009-08-12T12:00:22Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3264012445"/>
+    <title>@renestein P&#225;&#269; na boj proti spikleneck&#253;m centr&#367;m jsou v republice jin&#253; k&#225;d&#345;i! :)</title>
+    <content type="html">&lt;a href="http://twitter.com/renestein"&gt;@renestein&lt;/a&gt; P&#225;&#269; na boj proti spikleneck&#253;m centr&#367;m jsou v republice jin&#253; k&#225;d&#345;i! :)</content>
+    <updated>2009-08-12T12:00:22Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twhirl.org/"&gt;twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3263038656</id>
+    <published>2009-08-12T10:10:50Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3263038656"/>
+    <title>@Hosti J&#225; ne, to @pixycz - viz http://jdem.cz/buc49</title>
+    <content type="html">&lt;a href="http://twitter.com/Hosti"&gt;@Hosti&lt;/a&gt; J&#225; ne, to &lt;a href="http://twitter.com/pixycz"&gt;@pixycz&lt;/a&gt; - viz &lt;a href="http://jdem.cz/buc49"&gt;http://jdem.cz/buc49&lt;/a&gt;</content>
+    <updated>2009-08-12T10:10:50Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twhirl.org/"&gt;twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>es</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3251803631</id>
+    <published>2009-08-11T20:45:09Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3251803631"/>
+    <title>&#352;patn&#233; zpr&#225;vy pro zast&#225;nce genderov&#253;ch kv&#243;t: http://jdem.cz/bwcf4</title>
+    <content type="html">&#352;patn&#233; zpr&#225;vy pro zast&#225;nce genderov&#253;ch kv&#243;t: &lt;a href="http://jdem.cz/bwcf4"&gt;http://jdem.cz/bwcf4&lt;/a&gt;</content>
+    <updated>2009-08-11T20:45:09Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.seesmic.com/"&gt;Seesmic&lt;/a&gt;</twitter:source>
+    <twitter:lang>eo</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3250635315</id>
+    <published>2009-08-11T19:34:13Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3250635315"/>
+    <title>@suchosch Na Nyx jsem dostal pozv&#225;nku od tebe. Dodne&#353;ka se mi nestalo, &#382;e bych zatou&#382;il po tom j&#237;t se tam pod&#237;vat. Pro&#269;?</title>
+    <content type="html">&lt;a href="http://twitter.com/suchosch"&gt;@suchosch&lt;/a&gt; Na Nyx jsem dostal pozv&#225;nku od tebe. Dodne&#353;ka se mi nestalo, &#382;e bych zatou&#382;il po tom j&#237;t se tam pod&#237;vat. Pro&#269;?</content>
+    <updated>2009-08-11T19:34:13Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.seesmic.com/"&gt;Seesmic&lt;/a&gt;</twitter:source>
+    <twitter:lang>pl</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3249957191</id>
+    <published>2009-08-11T18:26:10Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3249957191"/>
+    <title>Hej, chlapi, pamatujete se, jak v Bajtu vych&#225;zely recenze na p&#345;eklada&#269;e od Borlandu? Co by recenzenti psali dneska? http://jdem.cz/bwbg8</title>
+    <content type="html">Hej, chlapi, pamatujete se, jak v Bajtu vych&#225;zely recenze na p&#345;eklada&#269;e od Borlandu? Co by recenzenti psali dneska? &lt;a href="http://jdem.cz/bwbg8"&gt;http://jdem.cz/bwbg8&lt;/a&gt;</content>
+    <updated>2009-08-11T18:26:10Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.seesmic.com/"&gt;Seesmic&lt;/a&gt;</twitter:source>
+    <twitter:lang>pl</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3247998428</id>
+    <published>2009-08-11T16:29:12Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3247998428"/>
+    <title>@petrkou U t&#233; recenze m&#283; napadlo, &#382;e dobr&#253; pendant by byl o mu&#382;&#237;ch, co &#269;tou Respekt a jsou z toho intelektu&#225;ln&#283; na v&#253;&#353;i... :)</title>
+    <content type="html">&lt;a href="http://twitter.com/petrkou"&gt;@petrkou&lt;/a&gt; U t&#233; recenze m&#283; napadlo, &#382;e dobr&#253; pendant by byl o mu&#382;&#237;ch, co &#269;tou Respekt a jsou z toho intelektu&#225;ln&#283; na v&#253;&#353;i... :)</content>
+    <updated>2009-08-11T16:29:12Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.seesmic.com/"&gt;Seesmic&lt;/a&gt;</twitter:source>
+    <twitter:lang>pt</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3245444728</id>
+    <published>2009-08-11T13:48:03Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3245444728"/>
+    <title>@adlo Tuhle informaci nem&#225;m, tak&#382;e jsem povyh&#225;zel ty, co v roce 2009 nenapsali ani &#269;&#225;rku a pak ty, co napsali "kon&#269;&#237;m". :)</title>
+    <content type="html">&lt;a href="http://twitter.com/adlo"&gt;@adlo&lt;/a&gt; Tuhle informaci nem&#225;m, tak&#382;e jsem povyh&#225;zel ty, co v roce 2009 nenapsali ani &#269;&#225;rku a pak ty, co napsali &amp;quot;kon&#269;&#237;m&amp;quot;. :)</content>
+    <updated>2009-08-11T13:48:03Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twhirl.org/"&gt;twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>pl</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3245217635</id>
+    <published>2009-08-11T13:31:40Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3245217635"/>
+    <title>Pro&#269;istil jsem @weblogy - celkov&#253; dojem, jak&#253; z toho m&#225;m, je "sta&#345;&#237; webdesign&#233;r&#353;t&#237; pardi odch&#225;zej&#237;..." :)</title>
+    <content type="html">Pro&#269;istil jsem &lt;a href="http://twitter.com/weblogy"&gt;@weblogy&lt;/a&gt; - celkov&#253; dojem, jak&#253; z toho m&#225;m, je &amp;quot;sta&#345;&#237; webdesign&#233;r&#353;t&#237; pardi odch&#225;zej&#237;...&amp;quot; :)</content>
+    <updated>2009-08-11T13:31:40Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twhirl.org/"&gt;twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>pl</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3243183653</id>
+    <published>2009-08-11T10:06:31Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3243183653"/>
+    <title>@Rootcz Taky se tam p&#237;&#353;e "uma&#353;t&#283;nej a dost p&#345;ifouknutej &#269;l&#225;nek". :)</title>
+    <content type="html">&lt;a href="http://twitter.com/Rootcz"&gt;@Rootcz&lt;/a&gt; Taky se tam p&#237;&#353;e &amp;quot;uma&#353;t&#283;nej a dost p&#345;ifouknutej &#269;l&#225;nek&amp;quot;. :)</content>
+    <updated>2009-08-11T10:06:31Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twhirl.org/"&gt;twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>pl</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3228232198</id>
+    <published>2009-08-10T17:07:11Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3228232198"/>
+    <title>Cesta zp&#283;t mnohem lep&#353;&#237; - funguje wifi a sluch&#225;tka dostaneme...</title>
+    <content type="html">Cesta zp&#283;t mnohem lep&#353;&#237; - funguje wifi a sluch&#225;tka dostaneme...</content>
+    <updated>2009-08-10T17:07:11Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twhirl.org/"&gt;twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>pl</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:3222769899</id>
+    <published>2009-08-10T09:54:15Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/adent/statuses/3222769899"/>
+    <title>Zrovna kdy&#382; si &#345;&#237;k&#225;m, &#382;e si sluchatka nevezmu, &#382;e mi je daj&#237; v autobusu, tak je v autobusu nemaj&#237;. Klet&#283;!</title>
+    <content type="html">Zrovna kdy&#382; si &#345;&#237;k&#225;m, &#382;e si sluchatka nevezmu, &#382;e mi je daj&#237; v autobusu, tak je v autobusu nemaj&#237;. Klet&#283;!</content>
+    <updated>2009-08-10T09:54:15Z</updated>
+    <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/53144594/jasme2_normal.jpg"/>
+    <twitter:source>&lt;a href="http://www.twibble.de/"&gt;twibble&lt;/a&gt;</twitter:source>
+    <twitter:lang>pl</twitter:lang>
+    <author>
+      <name>adent (Arthur Dent)</name>
+      <uri>http://twitter.com/adent</uri>
+    </author>
+  </entry>
+</feed>

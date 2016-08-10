@@ -1,0 +1,105 @@
+<html>
+    <head>
+        <title>Tweets Grave</title>
+        <script type="text/javascript" src="/static/js/jquery-1.3.2.min.js"></script>
+        <script type="text/javascript" src="/static/js/jquery.getUrlParam.js"></script>
+        <style>
+            body {
+                /*background-color: #e1ddd9;*/
+                background-color: #FFFFFF;
+                font-size: 12px;
+                font-family: Verdana, Arial, Helvetica, SunSans-Regular, Sans-Serif;
+                color:#564b47;
+                margin: 0px 140px  20px 140px;
+                text-align: center;
+            }
+            #content {
+                width: 100%;
+                padding: 0px;
+                text-align: left;
+                background-color: #fff;
+                overflow: auto;
+            }
+            input {
+                font-size: 18px;
+            }
+            label {
+                font-size: 18px;
+            }
+            .text{
+                margin-top: 60px;
+                text-align: left;
+                background-color: #f8f6f5;
+                border-color:#a9a6a4;
+                border-width:thin;
+                border-style:solid;
+                padding:2em;
+                padding-top:0em;
+            }
+            #logo{
+
+                top:0px;
+
+            }
+
+        </style>
+        <link rel="shortcut icon" href="/static/img/favicon.png">
+    </head>
+    <body>
+
+        <a href="/" ><img src="/static/img/logo.png" id="logo" style="border:0"/></a>
+        <form  method="GET">
+            <label for="nick"><strong>Nick:</strong></label> <input type="text" name="nick" size="25" id="nick" value="{{nick}}"/>
+            <input type="submit" value="najdi" id="odeslat"/>
+        </form>
+
+
+        <div id="vysledek" ></div>
+        <div id="loading" style="display:none"><img src="/static/img/32.gif" /></div>
+
+        <div class="text">
+            <h2>API</h2>
+            <p>API je primitivní, při jakémkoli problému mne neváhejte <a href="#kontakt">kontaktovat.</a>. Výsledký jsou cachovány 24 hodin. Jestli se vám API bude hodit, budu mít radost když mi to napíšete :-).</p>
+            <p>Data můžete mít ve formátech:
+            <ul><li><a href="/api/adent/json">JSON</a></li>
+            <li>Něco jako <a href="/api/adent/xml">XML</a></li>
+            <li>a <a href="/api/adent">HTML</a> (to se může časem měnit)</li>
+            </ul>
+
+            <a name="kontakt" />
+            <h2>Kontakt</h2>
+            <p>Jsem Jiří Nádvorník, programuju, <a href="http://blog.webnaklic.com">bloguju</a> a i <a href="http://twitter.com/nadvornix">twitteruju</a> Kontaktovat mne můžete na nadvornik.jiri [a] gmail.com. Tajdhlesty stránky jsem udělal z dlouhé chvíle v létě 2009.</p>
+
+            <h2>O stránkách</h2>
+            <p>TODO.cz běží na <a href="http://www.djangoproject.com/">djangu</a>, což je framework pro <a href="http://python.org/">python</a>. Ikonky jsou od <a href="http://www.productivedreams.com/free-twitter-bird-icon-set/">productive dreams</a>. Data se získávají porovnáváním výsledků vyhledávání s normálním výpisem tweetů.
+        </div>
+        {% if nick %}
+        <script type="text/javascript">
+            //$("#vysledek").load("/api/"+$(document).getUrlParam("nick"));
+            //$('#vysledek').html($(document).getUrlParam("nick"));
+
+
+            /*$(function() {
+        $("#odeslat").click(function() {
+          // validate and process form here
+          $('#vysledek').html($("input#nick").val());
+
+        });
+      });*/
+
+
+            jQuery(function($) {
+                $("#vysledek").load("/api/{{nick}}");
+            });
+
+            $().ajaxSend(function(r,s){
+                $("#loading").show();
+            });
+
+            $().ajaxStop(function(r,s){
+                $("#loading").fadeOut("fast");
+            });
+        </script>
+        {% endif %}
+    </body>
+</html>

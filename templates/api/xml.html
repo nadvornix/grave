@@ -1,0 +1,16 @@
+{%if chyba %}
+<error>{{chyba}}</error>
+{% else %}<?xml version="1.0" encoding="UTF-8"?>
+<tweety>
+{% for tweet in results%}
+<tweet>
+    <nick>{{tweet.nick}}</nick>
+    <text>{{tweet.text}}</text>
+    <link>{{tweet.link}}</link>
+    <image>{{tweet.image}}</image>
+    <source>{{tweet.source}}</source>
+    <created_at>{{tweet.created_at}}</created_at>
+</tweet>
+{% endfor %}
+</tweety>
+{%endif%}

@@ -1,0 +1,1 @@
+{%if chyba %}"{{chyba}}"{% else %}[{% for tweet in results%}{"nick": "{{tweet.nick}}","text": "{{tweet.text}}","link": "{{tweet.link}}","image": "{{tweet.image}}","datum": "{{tweet.created_at}}","source": "{{tweet.source|escape}}","created_at": "{{tweet.created_at}}"}{% if not forloop.last %},{% endif %}{% endfor %}]{%endif%}

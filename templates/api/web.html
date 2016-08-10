@@ -1,0 +1,17 @@
+{% load twitter_extras %}
+{%if chyba %}
+{{chyba}}
+{% else %}
+    <table>
+    {% for tweet in results %}
+        <tr>
+            <td><a href="http://twitter.com/{{tweet.nick}}"><img src="{{tweet.image}}"></a></td>
+            <td><p>{{tweet.text|hashe|unescape}}
+            <p>{{tweet.created_at|date:"d. m. Y H:i"}} from {{tweet.source|safe}}
+            </td>
+        </tr>
+    {% empty %}
+    <tr><td>Nenacházím žádné smazané tweety. Z technických důvodů prohledávám pouze posledních TODO:XXX tweetů od {{nick}} </td></tr>
+    {% endfor %}
+    </table>
+{%endif%}
